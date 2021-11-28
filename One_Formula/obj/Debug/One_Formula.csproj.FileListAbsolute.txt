@@ -1,0 +1,20 @@
+C:\Users\adm\Desktop\One_Formula\One_Formula\bin\Debug\One_Formula.exe.config
+C:\Users\adm\Desktop\One_Formula\One_Formula\bin\Debug\One_Formula.exe
+C:\Users\adm\Desktop\One_Formula\One_Formula\bin\Debug\One_Formula.pdb
+C:\Users\adm\Desktop\One_Formula\One_Formula\obj\Debug\One_Formula.csproj.AssemblyReference.cache
+C:\Users\adm\Desktop\One_Formula\One_Formula\obj\Debug\One_Formula.Form1.resources
+C:\Users\adm\Desktop\One_Formula\One_Formula\obj\Debug\One_Formula.Properties.Resources.resources
+C:\Users\adm\Desktop\One_Formula\One_Formula\obj\Debug\One_Formula.csproj.GenerateResource.cache
+C:\Users\adm\Desktop\One_Formula\One_Formula\obj\Debug\One_Formula.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\One_Formula\One_Formula\obj\Debug\One_Formula.exe
+C:\Users\adm\Desktop\One_Formula\One_Formula\obj\Debug\One_Formula.pdb
+C:\Users\adm\Desktop\One_Formula (Kirill)\One_Formula\obj\Debug\One_Formula.csproj.AssemblyReference.cache
+C:\Users\adm\Desktop\One_Formula (Kirill)\One_Formula\obj\Debug\One_Formula.Form1.resources
+C:\Users\adm\Desktop\One_Formula (Kirill)\One_Formula\obj\Debug\One_Formula.Properties.Resources.resources
+C:\Users\adm\Desktop\One_Formula (Kirill)\One_Formula\obj\Debug\One_Formula.csproj.GenerateResource.cache
+C:\Users\adm\Desktop\One_Formula (Kirill)\One_Formula\obj\Debug\One_Formula.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\One_Formula (Kirill)\One_Formula\obj\Debug\One_Formula.exe
+C:\Users\adm\Desktop\One_Formula (Kirill)\One_Formula\obj\Debug\One_Formula.pdb
+C:\Users\adm\Desktop\One_Formula (Kirill)\One_Formula\bin\Debug\One_Formula.exe.config
+C:\Users\adm\Desktop\One_Formula (Kirill)\One_Formula\bin\Debug\One_Formula.exe
+C:\Users\adm\Desktop\One_Formula (Kirill)\One_Formula\bin\Debug\One_Formula.pdb
